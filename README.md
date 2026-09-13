@@ -12,7 +12,8 @@ Curso de Fundamentos de Python
 3. Tormenta de Espadas
 4. Festin de cuervos
 
-#Actors
+
+#actores
 1. Jon Snow
-2. Spiderman
-3. ygrit snow
+2. Dicaprio
+=======
