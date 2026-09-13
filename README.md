@@ -11,3 +11,7 @@ Curso de Fundamentos de Python
 2. Choque de reyes
 3. Tormenta de Espadas
 4. Festin de cuervos
+
+#actores
+1. Jon Snow
+2. Dicaprio
