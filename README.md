@@ -11,3 +11,8 @@ Curso de Fundamentos de Python
 2. Choque de reyes
 3. Tormenta de Espadas
 4. Festin de cuervos
+
+#Actors
+1. Jon Snow
+2. Spiderman
+3. ygrit snow
