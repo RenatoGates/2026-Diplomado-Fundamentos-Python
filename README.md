@@ -17,3 +17,13 @@ Curso de Fundamentos de Python
 1. Jon Snow
 2. Dicaprio
 =======
+
+# Carreras
+
+1. Economía
+2. CPol
+3. Antro
+4. Historia
+5. Fainans
+6. Gestion
+7. Musica
